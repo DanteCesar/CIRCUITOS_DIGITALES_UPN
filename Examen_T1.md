@@ -48,7 +48,7 @@ Simplificar:
 
 Minimizar:
 
-**F(A,B,C,D) = Σm(1,3,4,5,9,11,13,15)**  
+**F(A,B,C) = Σm(1,3,5,7)**  
 
 1. Dibuje el mapa de Karnaugh.  
 2. Realice agrupaciones.  
